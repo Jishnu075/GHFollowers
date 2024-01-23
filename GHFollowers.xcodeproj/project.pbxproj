@@ -74,11 +74,12 @@
 		B0388E112B51524000458902 /* GHFollowers */ = {
 			isa = PBXGroup;
 			children = (
-				B0AF78992B5FA221001B3665 /* Model */,
-				B0AF78952B5F9EEB001B3665 /* Extensions */,
-				B0AF78982B5F9F0D001B3665 /* Support */,
 				B0AF78972B5F9F03001B3665 /* Screens */,
+				B0AF78982B5F9F0D001B3665 /* Support */,
+				B0AF78952B5F9EEB001B3665 /* Extensions */,
+				B0AF78992B5FA221001B3665 /* Model */,
 				B0AF78962B5F9EF7001B3665 /* Custom Views */,
+				B0388E202B51524300458902 /* Info.plist */,
 			);
 			path = GHFollowers;
 			sourceTree = "<group>";
@@ -120,7 +121,6 @@
 				B0388E142B51524000458902 /* SceneDelegate.swift */,
 				B0388E1B2B51524300458902 /* Assets.xcassets */,
 				B0388E1D2B51524300458902 /* LaunchScreen.storyboard */,
-				B0388E202B51524300458902 /* Info.plist */,
 			);
 			path = Support;
 			sourceTree = "<group>";
